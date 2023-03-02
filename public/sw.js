@@ -1,4 +1,4 @@
-var cacheName = "metallic";
+var cacheName = "AtomX";
 var filesToCache = ["/sw.js"];
 
 self.addEventListener("install", function (e) {
