@@ -131,11 +131,11 @@ function Home() {
 
   return (
     <>
-      <Head defaultTitle="Metallic"></Head>
+      <Head defaultTitle="AtomX"></Head>
       <Proxy ref={proxy} />
       <Nav />
       <div className="hometitle">
-        <Obfuscate>Metallic</Obfuscate>
+        <Obfuscate>AtomX</Obfuscate>
       </div>
       <div ref={omniboxcontainer} className="omniboxcontainer">
         <div ref={omnibox} className="omnibox">
@@ -177,7 +177,7 @@ function Home() {
           </Link>
         </div>
         <div className="footermiddle">
-          <Obfuscate>© Metallic 2022 - </Obfuscate>{new Date().getFullYear()}
+          <Obfuscate>© AtomX 2022 - </Obfuscate>{new Date().getFullYear()}
         </div>
         <div>
           <a className="footersides link" href="https://discord.gg/yk33HZSZkU">
@@ -185,7 +185,7 @@ function Home() {
           </a>
           <a
             className="footersides link"
-            href="https://github.com/yodaluca23/Metallic"
+            href="https://github.com/yodaluca23/AtomX"
           >
             Github
           </a>
