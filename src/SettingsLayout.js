@@ -25,7 +25,7 @@ function Tab({ to, children }) {
 export default function SettingsLayout({ children }) {
   return (
     <>
-      <Head defaultTitle="Settings | Metallic"></Head>
+      <Head defaultTitle="Settings | AtomX"></Head>
       <Nav settings />
       <div className="settingssidebar">
         <div className="settingssidetitle">
