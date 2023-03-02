@@ -19,7 +19,7 @@ function Nav() {
         ) : localAppearance === "banana" ? (
           <BananaSVG />
         ) : localAppearance === "hub" ? (
-          <div className="hub">Metal<div className="hubend">lic</div></div>
+          <div className="hub">Atom<div className="hubend">X</div></div>
         ) : (
           <LogoSVG fill="var(--highlight)" />
         )}
