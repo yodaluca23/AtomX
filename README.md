@@ -1,8 +1,8 @@
 <div align="center">
 <img height="150px" src="https://raw.githubusercontent.com/Metallic-Web/Metallic/main/src/assets/logo.svg">
-<h1>Metallic</h1>
+<h1>AtomX</h1>
 <h3>A powerful web proxy build for speed and customization.</h3>
-<p>Access the web with this stylish new web proxy service made in React supporting many sites. Metallic was originally created for <a href="https://github.com/titaniumnetwork-dev">TN</a>'s proxathon where it won 2nd place!</p>
+<p>Access the web with this stylish new web proxy service made in React supporting many sites. AtomX was originally created for <a href="https://github.com/titaniumnetwork-dev">TN</a>'s proxathon where it won 2nd place!</p>
 </div>
 
 <p align="center">
@@ -11,6 +11,10 @@
 <a href="https://railway.app/new/template?template=https://github.com/Metallic-Web/Metallic"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/railway2.svg"><img></a>
 <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Metallic-Web/Metallic&branch=main&name=Metallic"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/koyeb2.svg"><img></a>
 </p>
+
+## Fork Info
+
+I ([yodaluca23](https://github.com/yodaluca23)) forked this from [Metallic-Web](https://github.com/Metallic-Web/Metallic), and changed some stuff to my personal preferences all credit goes to them along with all the proxy backend creators.
 
 ## Features
 - Simple clean design
