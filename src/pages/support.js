@@ -6,7 +6,7 @@ import Obfuscate from "../components/obfuscate.js";
 function Support() {
   return (
     <>
-      <Head defaultTitle="Support | Metallic"></Head>
+      <Head defaultTitle="Support | AtomX"></Head>
       <Nav />
       <div className="itemscontainer">
         <div className="itemsection">
@@ -22,12 +22,12 @@ function Support() {
           </Obfuscate>
         </div>
         <div className="itemtitle">
-          <Obfuscate>Where can I obtain more links to Metallic?</Obfuscate>
+          <Obfuscate>Where can I obtain more links to AtomX?</Obfuscate>
         </div>
         <div className="itemtext">
           <Obfuscate>
             You can find more link on our discord here. Go to #proxy-bot and
-            choose Metallic for a randomized link.
+            choose AtomX for a randomized link.
           </Obfuscate>
         </div>
         <div className="itemtitle">
@@ -39,7 +39,7 @@ function Support() {
           </Obfuscate>
         </div>
         <div className="itemtitle">
-          <Obfuscate>How to self-host Metallic</Obfuscate>
+          <Obfuscate>How to self-host AtomX</Obfuscate>
         </div>
         <div className="itemtext">
           <Obfuscate>

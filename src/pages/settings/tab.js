@@ -13,7 +13,7 @@ function Tab() {
   var [localIcon, setLocalIcon] = useLocalIcon();
 
   function tabReset() {
-    document.title = "Settings | Metallic";
+    document.title = "Settings | AtomX";
     url.current.value = "";
     setLocalTitle(null);
     setLocalIcon(null);

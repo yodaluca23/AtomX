@@ -6,7 +6,7 @@ import Obfuscate from "../components/obfuscate.js";
 function Games() {
   return (
     <>
-      <Head defaultTitle="Games | Metallic"></Head>
+      <Head defaultTitle="Games | AtomX"></Head>
       <Nav />
       <h1 className="title">
         <Obfuscate>Games - Coming Soon!</Obfuscate>
