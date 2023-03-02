@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 function Privacy() {
   return (
     <>
-      <Head defaultTitle="Privacy Policy | Metallic"></Head>
+      <Head defaultTitle="Privacy Policy | AtomX"></Head>
       <Nav />
       <div className="itemscontainer">
         <div className="itemsection">
