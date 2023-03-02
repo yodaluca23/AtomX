@@ -6,7 +6,7 @@ import Obfuscate from "../components/obfuscate.js";
 function Support() {
   return (
     <>
-      <Head defaultTitle="Credits | Metallic"></Head>
+      <Head defaultTitle="Credits | AtomX"></Head>
       <Nav />
       <div className="itemscontainer">
         <div className="itemsection">
