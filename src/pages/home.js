@@ -45,7 +45,7 @@ function Home() {
 
     try {
       var site = await bare.fetch(
-        "https://www.google.com/complete/search?client=gws-wiz&q=" + query
+        "https://www.google.com/search?q=" + query
       );
       results = await site.text();
       results = JSON.parse(
@@ -185,7 +185,7 @@ function Home() {
           </a>
           <a
             className="footersides link"
-            href="https://github.com/Nebelung-Dev/Metallic"
+            href="https://github.com/yodaluca23/Metallic"
           >
             Github
           </a>
