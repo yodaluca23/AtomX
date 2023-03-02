@@ -7,7 +7,7 @@ import Obfuscate from "../components/obfuscate.js";
 function Error() {
   return (
     <>
-      <Head defaultTitle="Error | Metallic"></Head>
+      <Head defaultTitle="Error | AtomX"></Head>
       <Nav />
       <div className="title">
         <Obfuscate>404 Error</Obfuscate>
